@@ -6,3 +6,5 @@ Alguns usuários de academia precisam de um app que customize os treinos de musc
 
 ### Publico Alvo:
 Pessoas que como eu que tenham a necessidade de treinar em mais de uma academia, ou seja, que permutam frequentemente entre academias diferentes ao longo dos dias e precisam anotar as cargas, repetições e equipamentos de acordo com cada academia em específico, pois não há um padrão universal de pesos e medidas nem de equipamentos entre todas as academias, que na maioria das vezes nem da mesma marca são. Especialmente pensado para clientes com passe corporativo Wellhub (antigo Gympass), que se deslocam a negócios entre cidades com frequência.
+
+![case diagram](docs/use_case_diagram.png)
